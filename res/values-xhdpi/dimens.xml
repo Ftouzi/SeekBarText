@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- xhdpi screen -->
+
+    <dimen name="seek_text">13sp</dimen>
+    <dimen name="text_seek_y">7dp</dimen>
+
+</resources>

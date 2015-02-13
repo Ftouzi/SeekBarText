@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SeekBar xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/tallerBarStyle"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:thumb="@drawable/seeck_bar_full"
+    android:thumbOffset="11dp" >
+
+</SeekBar>
